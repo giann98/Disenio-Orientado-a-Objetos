@@ -1,9 +1,11 @@
 # MyGymFitnessPro - Diseño del sistema #
 
-**Apellido**: Pasquali <br>
-**Nombre**: Gian Franco Martin <br>
-**Profesor**: Matias Velasquez <br>
-**Año**: 2024 <br>
+**Apellido:** Pasquali <br>
+**Nombre:** Gian Franco Martin <br>
+**Materia:** Diseño Orientado a Objetos <br>
+**Carrera:** Tecnicatura en Programación <br>
+**Profesor:** Matias Velasquez <br>
+**Año:** 2024 <br>
 
 ## Introducción ##
 Bienvenidos, este es el diseño de una aplicación para un gimnasio, la cual fue solicitada por el gimnasio FitnessPro. 
