@@ -39,4 +39,7 @@ En esta sección se puede observar el diagrama de casos de uso realizado [Diagra
 En esta sección se puede observar los escenarios de casos de uso que se realizaron pensando en los requerimientos criticos [Escenarios Casos de Uso](https://docs.google.com/spreadsheets/d/1w6QqIfBc6tFknKwZa0FfA4q6TJn-tqJbOQZ5olLuRHc/edit?usp=sharing). <br>
 
 **Diagrama de Clases:** <br>
-En esta sección se puede observar el diagrama de clases que se realizó aplicando principios SOLID [Diagrama de Clases](https://drive.google.com/file/d/1rjreb_ABoldGupt2RSJWeb-h2Wgjitce/view?usp=sharing). <br>
+En esta sección se puede observar una primera versión del diagrama de clases que se realizó aplicando principios SOLID [Diagrama de Clases](https://drive.google.com/file/d/1j_6_zixc97vXVsbrUZCjRHs2ybycL_AH/view?usp=sharing). <br>
+
+**Anexo - Explicación de la aplicación de Principios SOLID:** <br>
+En esta sección se puede acceder al anexo donde se explica los principios SOLID que se aplicaron para generar el diagrama de Clases presentado en el apartado anterior [Anexo - Aplicación principios SOLID](https://docs.google.com/document/d/1mnCSFXDmXh5SstS1VAgBLsxGxIyblfvOGI2G3-fjAno/edit?usp=sharing). <br>
