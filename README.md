@@ -37,3 +37,6 @@ En esta sección se puede observar el diagrama de casos de uso realizado [Diagra
 
 **Escenarios de Casos de Uso:** <br>
 En esta sección se puede observar los escenarios de casos de uso que se realizaron pensando en los requerimientos criticos [Escenarios Casos de Uso](https://docs.google.com/spreadsheets/d/1w6QqIfBc6tFknKwZa0FfA4q6TJn-tqJbOQZ5olLuRHc/edit?usp=sharing). <br>
+
+**Diagrama de Clases:** <br>
+En esta sección se puede observar el diagrama de clases que se realizó aplicando principios SOLID [Diagrama de Clases](https://drive.google.com/file/d/1rjreb_ABoldGupt2RSJWeb-h2Wgjitce/view?usp=sharing). <br>
