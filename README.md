@@ -7,6 +7,13 @@
 **Profesor:** Matias Velasquez <br>
 **Año:** 2024 <br>
 
+
+## Prompt exacto utilizado
+
+Tomando como base el archivo plan.md de este proyecto, proponé una estructura visual inicial para una página web básica sobre un planificador de tareas estilo diagrama de Gantt.
+
+Necesito sugerencias de layout general, secciones principales, navegación y jerarquía visual para luego diseñar un mockup simple en Figma.
+
 ## Introducción ##
 Bienvenidos, este es el diseño de una aplicación para un gimnasio, la cual fue solicitada por el gimnasio FitnessPro. 
 La gestión es llevada a cabo de manera manual, lo que le imposibilita ofrecer un 
